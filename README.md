@@ -1,4 +1,3 @@
-homework
-========
+# CS 212 Homework
 
-CS 212 Software Development Homework
+Repository of homework files for CS 212 Software Development.
