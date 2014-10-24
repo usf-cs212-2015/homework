@@ -35,6 +35,7 @@ The following files are required for this project:
 Please download the above files and add them to your Java project in Eclipse to get started. See the [Homework README](../README.md) for details on how to download individual files or subdirectories from this repository.
 
 Hints
+-------------------------------------------------
 
 Below are some hints that may help with this homework assignment:
 
