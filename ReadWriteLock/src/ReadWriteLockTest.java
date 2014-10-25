@@ -79,7 +79,7 @@ public class ReadWriteLockTest {
      *
      * @throws InterruptedException
      */
-    @Test(timeout=(long)(WORKER_SLEEP * 2.75))
+    @Test(timeout=(long)(WORKER_SLEEP * 2.9))
     public void testReaderWriter() throws InterruptedException {
         ReadWriteLock lock = new ReadWriteLock();
         StringBuffer buffer = new StringBuffer("\n");
