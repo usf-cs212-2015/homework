@@ -16,10 +16,8 @@ Files
 
 The following files are required for this assignment:
 
-- [`src/HTMLCleaner.java`](src/HTMLCleanerTest.java)
+- [`src/HTMLCleaner.java`](src/HTMLCleaner.java)
 - [`src/HTMLCleanerTest.java`](src/HTMLCleanerTest.java)
-
-Please download the above files and add them to your Java project in Eclipse to get started. See the [Homework README](../README.md) for details on how to download individual files or subdirectories from this repository.
 
 Hints
 -------------------------------------------------
