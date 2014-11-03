@@ -1,4 +1,4 @@
-HTTP Header Server
+Header Server
 =================================================
 
 For this assignment, you will create a simple Jetty web server that allows users enter a URL, and view the HTTP headers for that URL.
@@ -13,9 +13,9 @@ Requirements
 
 You must do the following for this assignment:
 
-1. **`HTTPHeaderServer.main():`** Start a Jetty web server on port 8080, and map `/check` to the `HeaderServlet` servlet.  
+1. **`HeaderServer.main():`** Start a Jetty web server on port 8080, and map `/check` to the `HeaderServlet` servlet.  
     
-2. **`HTTPHeaderServer.HeaderServlet.doGet()`** This servlet should display a simple web form that allows users to enter a link, and press a button to display the HTTP headers for that link.
+2. **`HeaderServer.HeaderServlet.doGet()`** This servlet should display a simple web form that allows users to enter a link, and press a button to display the HTTP headers for that link.
 
   If the appropriate link parameter is present in the `GET` request, the servlet should also fetch and display the HTTP headers for the provided link. If the servlet is unable to fetch the headers, display a message on the web page instead. You can use `HTTPFetcher` to get the headers, and display the resulting text in a `pre` block. 
 

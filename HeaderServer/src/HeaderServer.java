@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletHandler;
 
-public class HTTPHeaderServer {
+public class HeaderServer {
 
 	public static void main(String[] args) throws Exception {
 
