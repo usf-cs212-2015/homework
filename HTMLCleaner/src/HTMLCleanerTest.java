@@ -99,6 +99,7 @@ public class HTMLCleanerTest {
         /**
          * Tests "hello & good-bye".
          */
+        @Test
         public void testAmpersand() {
             String test = "hello & good-bye";
             String expected = "hello & good-bye";
@@ -110,6 +111,7 @@ public class HTMLCleanerTest {
         /**
          * Tests "hello & good-bye;".
          */
+        @Test
         public void testAndSemicolon() {
             String test = "hello & good-bye;";
             String expected = "hello & good-bye;";
