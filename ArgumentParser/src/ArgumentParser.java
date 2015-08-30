@@ -91,7 +91,7 @@ public class ArgumentParser {
 	 * Tests if the provided flag is stored in the map.
 	 *
 	 * @param flag flag to check
-	 * @return true if flag exists
+	 * @return true if flag exists regardless of whether it has a value
 	 */
 	public boolean hasFlag(String flag) {
 		// TODO Fill this in.
@@ -103,7 +103,7 @@ public class ArgumentParser {
 	 * Tests if the provided flag has a non-empty value.
 	 *
 	 * @param flag flag to check
-	 * @return true if the flag exists (regardless of whether it has a value)
+	 * @return true if the flag exists and has a non-null non-empty value
 	 */
 	public boolean hasValue(String flag) {
 		// TODO Fill this in.
