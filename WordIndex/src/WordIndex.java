@@ -12,7 +12,7 @@ public class WordIndex {
      * available, as sorting is not a requirement of this index.
      */
     public WordIndex() {
-    	// TODO Fix initialization
+        // TODO Fix initialization
         index = null;
     }
 
@@ -25,7 +25,7 @@ public class WordIndex {
      * @return cleaned word
      */
     public static String clean(String word) {
-		// TODO Fill this in and fix return statement.    	
+        // TODO Fill this in and fix return statement.
         return null;
     }
 
@@ -43,8 +43,8 @@ public class WordIndex {
      *         the index
      */
     public boolean add(String word, int position) {
-		// TODO Fill this in and fix return statement.
-    	return false;
+        // TODO Fill this in and fix return statement.
+        return false;
     }
 
     /**
@@ -57,7 +57,7 @@ public class WordIndex {
      *            array of words to add to index
      */
     public void addAll(String[] words) {
-		// TODO Fill this in.    
+        // TODO Fill this in.
     }
 
     /**
@@ -70,8 +70,8 @@ public class WordIndex {
      * @return number of times word was found
      */
     public int count(String word) {
-		// TODO Fill this in and fix return statement.
-    	return -1;
+        // TODO Fill this in and fix return statement.
+        return -1;
     }
 
     /**
@@ -80,8 +80,8 @@ public class WordIndex {
      * @return number of words
      */
     public int words() {
-		// TODO Fill this in and fix return statement.
-    	return -1;
+        // TODO Fill this in and fix return statement.
+        return -1;
     }
 
     /**
@@ -93,8 +93,8 @@ public class WordIndex {
      * @return true if the word is stored in the index
      */
     public boolean contains(String word) {
-		// TODO Fill this in and fix return statement.
-    	return false;
+        // TODO Fill this in and fix return statement.
+        return false;
     }
 
     /**
@@ -109,8 +109,8 @@ public class WordIndex {
      *         not found)
      */
     public Set<Integer> positions(String word) {
-		// TODO Fill this in and fix return statement.
-    	return null;
+        // TODO Fill this in and fix return statement.
+        return null;
     }
 
     /**
