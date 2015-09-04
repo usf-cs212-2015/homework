@@ -1,6 +1,8 @@
 # CS 212 Homework
 
-This guide will walk you through the steps to setup and submit homework assignments.
+This guide will walk you through the steps to setup and submit homework assignments. You can [view a video](https://youtu.be/UqbBnKWofII) of the entire process as well.
+
+:movie_camera: View a walkthrough of this process on [YouTube](https://youtu.be/UqbBnKWofII).
 
 :warning: This guide assumes you have already been through the [Getting Started](https://github.com/cs212/lectures/tree/fall2015/Getting%20Started) guides.
 
